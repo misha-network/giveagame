@@ -1,6 +1,6 @@
 # GiveAGame
 
-![GitHub - License](https://img.shields.io/github/license/misha-network/giveagame?style=plastic) ![GitHub - PyPI](https://img.shields.io/pypi/v/giveagame?color=157&label=PyPI&style=plastic) ![GitHub - TotalLineOfCode](https://img.shields.io/tokei/lines/github/misha-network/giveagame?label=Total%20Lines%20of%20Code&style=plastic)
+![GitHub - License](https://img.shields.io/github/license/misha-network/giveagame?label=License&logo=github&style=plastic&link=https://github.com/misha-network/giveagame&link=https://github.com/misha-network/giveagame/blob/main/LICENSE) ![GitHub - PyPI](https://img.shields.io/pypi/v/giveagame?label=PyPI&logo=pypi&logoColor=499&style=plastic&link=https://pypi.org/project/giveagame/) ![GitHub - TotalLineOfCode](https://img.shields.io/tokei/lines/github/misha-network/giveagame?label=Total%20Lines%20of%20Code&logo=github&style=plastic&link=https://github.com/misha-network/giveagame)
 
 ---
 ### Description
