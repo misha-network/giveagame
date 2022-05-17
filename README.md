@@ -3,7 +3,7 @@
 ### Description
 
 This is a simple game engine. 
-[Project GitHub](https://www.github.com/misha-network/give_a_game)
+[Project GitHub](https://www.github.com/misha-network/giveagame)
 
 ### How to install?
 
